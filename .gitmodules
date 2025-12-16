@@ -1,0 +1,3 @@
+[submodule "ddnet"]
+	path = ddnet
+	url = git@github.com:ddnet/ddnet.git
